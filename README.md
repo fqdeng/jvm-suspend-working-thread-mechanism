@@ -1,5 +1,9 @@
 # JVM safe-point 机制
 
+
+## GIF how it works
+![gif](./pic/how-it-works.gif)
+
 ## 由于编译可能产生问题 可以直接在linux上运行
 ```bash
 ./main
