@@ -1,5 +1,10 @@
 # JVM safe-point 机制
 
+## 由于编译可能产生问题 可以直接在linux上运行
+```bash
+./main
+```
+
 ## 通过mprotect设置内存访问权限
 
 * mprotect 提供下图几种访问权限设定 
