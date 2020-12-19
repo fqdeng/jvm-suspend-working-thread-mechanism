@@ -1,5 +1,6 @@
 # JVM safe-point 机制
 
+## 使用Clang编译 gcc会报错 目前未研究清楚
 
 ## GIF how it works
 ![gif](./pic/how-it-works.gif)
