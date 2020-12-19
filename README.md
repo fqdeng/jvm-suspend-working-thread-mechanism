@@ -1,4 +1,4 @@
-# JVM safe-point 机制
+# JVM 挂起工作线程的 机制与原理
 
 ## 使用Clang编译 gcc会报错 目前未研究清楚
 
