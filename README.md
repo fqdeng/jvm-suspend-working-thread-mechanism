@@ -3,7 +3,7 @@
 ## 首选使用Clang编译 GCC编译会报错 目前未研究清楚
 * 内嵌的汇编代码 依赖编译后的栈上临时变量跟RBP指针的相对位置 不保证编译器优化后 内嵌的汇编代码能正常运行
 
-## GIF how it works
+## HOW IT WORKS
 ![gif](./pic/how-it-works.gif)
 
 ## 由于编译可能产生问题 可以直接在linux上运行
